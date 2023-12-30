@@ -12,4 +12,4 @@ It has validations to avoid users trying to use badly formatted Roman numerals l
 1. Clone this repository.
 1. Install using `npm install` (requires Node 14 or higher)
 1. Test it using `vite test`
-1. You can convert any number using the console like `console.log(reverseRoman("XV")); // output: 15
+1. You can convert any number using the console like `console.log(reverseRoman("XV")); // output: 15`
